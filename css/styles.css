@@ -452,6 +452,7 @@ input {
 .footer-container {
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
 }
 
 .footer-logo-text {
@@ -569,6 +570,7 @@ input {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  fill: #FFFFFF;
   cursor: pointer;
   background-color: #4d5ae5;
   border: none;
